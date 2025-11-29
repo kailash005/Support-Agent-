@@ -1,13 +1,8 @@
 streamlit
 python-dotenv
 supabase
-supabase-py
 langchain
 langchain-core
 langchain-community
 langchain-google-genai
 google-generativeai
-tiktoken
-protobuf
-numpy
-requests
